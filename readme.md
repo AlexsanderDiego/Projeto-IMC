@@ -6,11 +6,14 @@ Este é um projeto simples de uma calculadora de índice de massa corporal (IMC)
 ## Uso
 
 Abra o arquivo index.html em seu navegador.
-Insira sua altura em metros (exemplo: 1.75) e seu peso em quilogramas (exemplo: 70).
-Clique no botão "Calcular".
-O programa calculará seu IMC e informará em qual categoria de peso você se encontra.
-Desenvolvimento
-Este projeto foi desenvolvido com HTML, CSS e JS puro. O arquivo index.html contém a estrutura básica da página, o arquivo style.css contém a folha de estilos e o arquivo script.js contém o código JavaScript responsável pelo cálculo do IMC e pela atualização da página.
+
+* Insira sua altura em metros (exemplo: 1.75) e seu peso em quilogramas (exemplo: 70).
+* Clique no botão "Calcular".
+* O programa calculará seu IMC e informará em qual categoria de peso você se encontra.
+
+## Desenvolvimento
+
+* Este projeto foi desenvolvido com HTML, CSS e JS puro. O arquivo index.html contém a estrutura básica da página, o arquivo style.css contém a folha de estilos e o arquivo script.js contém o código JavaScript responsável pelo cálculo do IMC e pela atualização da página.
 
 ## Contribuindo
 

@@ -13,7 +13,7 @@ Abra o arquivo index.html em seu navegador.
 
 ## Desenvolvimento
 
-* Este projeto foi desenvolvido com HTML, CSS e JS puro. O arquivo index.html contém a estrutura básica da página, o arquivo style.css contém a folha de estilos e o arquivo script.js contém o código JavaScript responsável pelo cálculo do IMC e pela atualização da página.
+Este projeto foi desenvolvido com HTML, CSS e JS puro. O arquivo index.html contém a estrutura básica da página, o arquivo style.css contém a folha de estilos e o arquivo script.js contém o código JavaScript responsável pelo cálculo do IMC e pela atualização da página.
 
 ## Contribuindo
 

@@ -1,5 +1,6 @@
 # Calculadora de IMC
 
+Calculadora IMC. Tutorial por Fernando Leonid.
 
 Este é um projeto simples de uma calculadora de índice de massa corporal (IMC) em HTML, CSS e JS. Ele permite que o usuário insira sua altura e peso para calcular seu IMC e determinar sua categoria de peso.
 
